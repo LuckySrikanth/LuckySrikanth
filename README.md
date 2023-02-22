@@ -9,7 +9,7 @@
   
   - 📫 How to reach me **luckysrikanth78@gmail.com**<br/>
   
-  <img src='https://readme-typing-svg.demolab.com/?lines=Aspiring+Mernstack+developer;Frontend+FullStack+developer/Srikanth'/>
+  <img src='https://readme-typing-svg.demolab.com/?lines=Aspiring+Mernstack+developer;FullStack+developer/Srikanth'/>
 
   
   <h3 align="left">Connect with me:</h3><p align="left"><a href="https://www.linkedin.com/in/srikanth-banoths/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev ch" height="30" width="40" /></a>
