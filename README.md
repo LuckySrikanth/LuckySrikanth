@@ -4,7 +4,7 @@
   
   - 🌱 I’m currently trainging on **REACT**  <br/> 
   
-  -🤝 I’m looking for help with **Trending Technologies** <br/> 
+   🤝 I’m looking for help with **Trending Technologies** <br/> 
   
   - 💬 Ask me about **MERN**  <br/>
   
